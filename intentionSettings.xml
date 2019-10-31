@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="CoffeeScript/Replace Double-Quoted String with Single-Quoted String" />
+  </component>
+</application>

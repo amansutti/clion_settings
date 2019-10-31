@@ -1,0 +1,8 @@
+<code_scheme name="Default" version="173">
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
+  <clangFormatSettings>
+    <option name="ENABLED" value="true" />
+  </clangFormatSettings>
+</code_scheme>
