@@ -1,9 +1,5 @@
 <application>
   <component name="KeymapManager">
-<<<<<<< HEAD
     <active_keymap name="Sublime Text copy" />
-=======
-    <active_keymap name="ReSharper copy" />
->>>>>>> parent of 470819a... PY-2019.2.3 <alessandro@mansut Delete keymap.xml, find.xml, ui.lnf.xml, vcs.xml, editor.xml, templates.xml
   </component>
 </application>
