@@ -1,0 +1,7 @@
+<templateSet group="CMake">
+  <template name="Qt" value="set(CMAKE_AUTOMOC ON)&#10;set(CMAKE_AUTORCC ON)&#10;set(CMAKE_AUTOUIC ON)&#10;find_package(Qt5 COMPONENTS Widgets REQUIRED)&#10;&#10;&#10;target_link_libraries(untitled2 Qt5::Widgets)" description="add Qt support" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CMAKE_COMMAND_CONTEXT" value="true" />
+    </context>
+  </template>
+</templateSet>
