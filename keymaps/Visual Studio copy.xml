@@ -68,6 +68,11 @@
   <action id="OverrideMethods" />
   <action id="PreviousEditorTab" />
   <action id="PreviousTab" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="RerunTests" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
