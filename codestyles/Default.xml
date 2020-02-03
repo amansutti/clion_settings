@@ -2,6 +2,12 @@
   <Objective-C>
     <option name="ADD_BRIEF_TAG" value="true" />
   </Objective-C>
+  <Objective-C-extensions>
+    <extensions>
+      <pair source="cpp" header="hpp" fileNamingConvention="NONE" />
+      <pair source="c" header="h" fileNamingConvention="NONE" />
+    </extensions>
+  </Objective-C-extensions>
   <clangFormatSettings>
     <option name="ENABLED" value="true" />
   </clangFormatSettings>
