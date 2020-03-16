@@ -100,6 +100,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl f8" />
     <keyboard-shortcut first-keystroke="f12" />
   </action>
-  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.EditWatch">
+    <mouse-shortcut keystroke="button1 doubleClick" />
+  </action>
   <action id="XDebugger.SetValue" />
 </keymap>
