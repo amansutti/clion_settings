@@ -11,4 +11,16 @@
     <variable name="UPPER_BOUND" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="//off" value="// clang-format off" description="clang-format OFF" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+  <template name="//on" value="// clang-format on" description="clang-format ON" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
 </templateSet>
