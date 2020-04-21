@@ -9,6 +9,6 @@
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
-    <pattern icon="important" pattern="\b(note)\b.*" />
+    <pattern icon="important" pattern="\/\/ *\b(NOTE)\b.*" />
   </component>
 </application>
