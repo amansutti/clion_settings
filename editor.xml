@@ -6,6 +6,7 @@
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
+    <option name="ADD_CARETS_ON_DOUBLE_CTRL" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
