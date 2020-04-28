@@ -15,8 +15,8 @@
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
     <pattern useCustomColors="true" case-sensitive="true" pattern="\b(DEBUG)\b.*">
-      <option name="FOREGROUND" value="af011f" />
-      <option name="FONT_TYPE" value="2" />
+      <option name="FOREGROUND" value="cd3300" />
+      <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
   </component>
