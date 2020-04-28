@@ -1,7 +1,6 @@
 <application>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="JetBrains Mono" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
   <component name="EditorSettings">
@@ -12,6 +11,11 @@
     <pattern pattern="\b(todo|fixme)\b.*" />
     <pattern useCustomColors="true" pattern="\b(not(a|e))\b.*">
       <option name="FOREGROUND" value="8c01e" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\b(DEBUG)\b.*">
+      <option name="FOREGROUND" value="af011f" />
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
