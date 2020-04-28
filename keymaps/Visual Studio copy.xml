@@ -10,8 +10,12 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
-  <action id="BuildProfile">
+  <action id="Build">
+    <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="BuildProfile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -28,6 +32,7 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="DatabaseView.OpenDdlInConsole" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
   <action id="Diff.NextChange" />
