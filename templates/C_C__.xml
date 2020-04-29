@@ -23,4 +23,16 @@
       <option name="cpp" value="true" />
     </context>
   </template>
+  <template name="rt" value="return true;" description="return true;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+  <template name="rf" value="return false;" description="return false;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
 </templateSet>
