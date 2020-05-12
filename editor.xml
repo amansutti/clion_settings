@@ -4,7 +4,8 @@
     <option name="LINE_SPACING" value="1.1" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE:PREVIEW" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="ADD_CARETS_ON_DOUBLE_CTRL" value="false" />
   </component>
   <component name="TodoConfiguration">
