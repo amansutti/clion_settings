@@ -33,6 +33,9 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="CopyAbsolutePath">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="DatabaseView.OpenDdlInConsole" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
@@ -99,6 +102,10 @@
   <action id="NextTab" />
   <action id="OptimizeImports" />
   <action id="OverrideMethods" />
+  <action id="Pause">
+    <keyboard-shortcut first-keystroke="ctrl alt cancel" />
+    <keyboard-shortcut first-keystroke="ctrl pause" />
+  </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab" />
   <action id="ReformatCode">
