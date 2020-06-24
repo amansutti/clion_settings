@@ -54,6 +54,12 @@
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
     <keyboard-shortcut first-keystroke="alt #10000e8" />
   </action>
+  <action id="EditorLeftWithSelection">
+    <keyboard-shortcut first-keystroke="shift left" />
+  </action>
+  <action id="EditorRightWithSelection">
+    <keyboard-shortcut first-keystroke="shift right" />
+  </action>
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="shift alt insert" />
     <keyboard-shortcut first-keystroke="alt c" />
@@ -137,7 +143,19 @@
     <keyboard-shortcut first-keystroke="shift ctrl f8" />
     <keyboard-shortcut first-keystroke="f12" />
   </action>
+  <action id="Table-selectNextColumnExtendSelection">
+    <keyboard-shortcut first-keystroke="shift right" />
+  </action>
+  <action id="Table-selectPreviousColumnExtendSelection">
+    <keyboard-shortcut first-keystroke="shift left" />
+  </action>
   <action id="ToggleBookmark7" />
+  <action id="Tree-selectChildExtendSelection">
+    <keyboard-shortcut first-keystroke="shift right" />
+  </action>
+  <action id="Tree-selectParentExtendSelection">
+    <keyboard-shortcut first-keystroke="shift left" />
+  </action>
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="XDebugger.EditWatch">
     <mouse-shortcut keystroke="button1 doubleClick" />
