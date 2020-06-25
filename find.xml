@@ -33,5 +33,6 @@
     <mask>*.cpp,*.h*</mask>
     <mask>*.c*,*.h*</mask>
     <mask>*.c,*.cpp,*.h*</mask>
+    <mask>*.c,*.cpp,*.h,*.hpp</mask>
   </component>
 </application>
