@@ -8,6 +8,14 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="ADD_CARETS_ON_DOUBLE_CTRL" value="false" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledLanguages">
+      <set>
+        <option value="ObjectiveC" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme|checkme)\b.*" />
     <pattern useCustomColors="true" pattern="\b(not(a|e))\b.*">
