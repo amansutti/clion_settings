@@ -115,6 +115,7 @@
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="Images.Editor.ToggleGrid" />
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
@@ -157,6 +158,7 @@
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="alt f7" />
