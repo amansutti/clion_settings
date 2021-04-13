@@ -142,6 +142,11 @@
                       <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="TailRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Tail" pluginName="Grep Console" pluginId="GrepConsole" />
+                    </value>
+                  </entry>
                   <entry key="Tox">
                     <value>
                       <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
@@ -179,7 +184,7 @@
                   </entry>
                   <entry key="docker-deploy">
                     <value>
-                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
+                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">
