@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="AddToFavoritesPopup" />
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="Back">
@@ -22,6 +25,7 @@
   <action id="CIDR.Lang.IntroduceVariable" />
   <action id="CIDR.Lang.ObjC.IntroduceIvar" />
   <action id="ChangeSignature" />
+  <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -45,6 +49,7 @@
     <keyboard-shortcut first-keystroke="alt f5" />
     <keyboard-shortcut first-keystroke="shift ctrl f5" />
   </action>
+  <action id="Diagram.DeselectAll" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
   <action id="Diff.NextChange" />
@@ -104,6 +109,7 @@
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="Git.Stage.Add" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
@@ -219,4 +225,5 @@
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
+  <action id="hg4idea.add" />
 </keymap>
