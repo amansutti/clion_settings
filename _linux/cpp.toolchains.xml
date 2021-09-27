@@ -1,8 +1,0 @@
-<application>
-  <component name="CPPToolchains" version="4">
-    <toolchains detectedVersion="5">
-      <toolchain name="Default" toolSetKind="SYSTEM_UNIX_TOOLSET" customCMakePath="/usr/bin/cmake" debuggerKind="BUNDLED_GDB" />
-      <toolchain name="Arm" toolSetKind="SYSTEM_UNIX_TOOLSET" customCCompilerPath="/usr/bin/arm-none-eabi-gcc" customCXXCompilerPath="/usr/bin/arm-none-eabi-gcc" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb-multiarch" />
-    </toolchains>
-  </component>
-</application>
