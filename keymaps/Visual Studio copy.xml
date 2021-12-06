@@ -120,9 +120,7 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
-  <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="shift alt right" />
-  </action>
+  <action id="GotoNextError" />
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
@@ -148,6 +146,10 @@
   </action>
   <action id="Move" />
   <action id="NextEditorTab" />
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
   <action id="NextTab" />
   <action id="OptimizeImports" />
   <action id="OverrideMethods" />
