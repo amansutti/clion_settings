@@ -54,6 +54,15 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="CANDIDATE" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="" />
               </GrepModel>
             </list>
@@ -63,7 +72,16 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="CANDIDATE" />
+                <option name="expression" value="p" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="warning" />
               </GrepModel>
             </list>
           </option>
