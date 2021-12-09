@@ -72,64 +72,72 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="warning|error" />
+                <option name="regex" value="true" />
+              </GrepModel>
+              <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="customTitle" value="warning|error" />
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="warning|error" />
+                <option name="regex" value="true" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="customTitle" value="warning|error" />
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="warning|error" />
+                <option name="regex" value="true" />
+              </GrepModel>
+              <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="warning|error" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="algeb" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="warning" />
-                <option name="regex" value="true" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
-                <option name="expression" value="warning|error" />
-                <option name="regex" value="true" />
-              </GrepModel>
-              <GrepModel>
-                <option name="expression" value="" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="customTitle" value="warning|error" />
-          <option name="models">
-            <list>
-              <GrepModel>
-                <option name="expression" value="warning|error" />
-                <option name="regex" value="true" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="customTitle" value="warning|error" />
-          <option name="models">
-            <list>
-              <GrepModel>
-                <option name="expression" value="warning|error" />
-                <option name="regex" value="true" />
-              </GrepModel>
-              <GrepModel>
-                <option name="expression" value="" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
-                <option name="expression" value="" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
-                <option name="expression" value="warning|error" />
               </GrepModel>
             </list>
           </option>
