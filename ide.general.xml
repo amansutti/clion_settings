@@ -6,6 +6,7 @@
     <entry key="cidr.debugger.gdb.interrupt.signal" value="SIGINT" />
     <entry key="clion.clangd.max.memory" value="1000" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="clang.parameter.info" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
