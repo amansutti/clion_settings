@@ -227,6 +227,7 @@
   <action id="VcsShowPrevChangeMarker" />
   <action id="XDebugger.EditWatch">
     <mouse-shortcut keystroke="button1 doubleClick" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="XDebugger.SetValue" />
   <action id="editRunConfigurations">
