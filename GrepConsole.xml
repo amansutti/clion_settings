@@ -164,15 +164,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="*" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="" />
               </GrepModel>
             </list>
@@ -210,6 +201,15 @@
             <list>
               <GrepModel>
                 <option name="expression" value="BEST" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="*" />
               </GrepModel>
             </list>
           </option>
