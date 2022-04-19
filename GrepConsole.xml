@@ -228,8 +228,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="LpsTrackOuputPtr.*|TagSession.*" />
-                <option name="regex" value="true" />
+                <option name="expression" value="BEST" />
               </GrepModel>
             </list>
           </option>
@@ -238,7 +237,8 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="BEST" />
+                <option name="expression" value="LpsTrackOuputPtr.*|TagSession.*" />
+                <option name="regex" value="true" />
               </GrepModel>
             </list>
           </option>
