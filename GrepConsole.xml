@@ -164,15 +164,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="BEST" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="*" />
               </GrepModel>
             </list>
@@ -239,6 +230,15 @@
               <GrepModel>
                 <option name="expression" value="LpsTrackOuputPtr.*|TagSession.*" />
                 <option name="regex" value="true" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="BEST" />
               </GrepModel>
             </list>
           </option>
