@@ -4,7 +4,7 @@
   </component>
   <component name="Registry">
     <entry key="cidr.debugger.gdb.interrupt.signal" value="SIGINT" />
-    <entry key="clion.clangd.max.memory" value="1000" />
+    <entry key="clion.clangd.max.memory" value="3000" />
     <entry key="debugger.watches.in.variables" value="false" />
   </component>
   <component name="StatusBar">
