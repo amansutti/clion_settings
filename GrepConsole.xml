@@ -237,16 +237,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="LpsTrackOuputPtr.*|TagSession.*" />
-                <option name="regex" value="true" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="Epoca letta i" />
               </GrepModel>
             </list>
@@ -266,6 +256,16 @@
             <list>
               <GrepModel>
                 <option name="expression" value="ALE_TELEMETRY" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="LpsTrackOuputPtr.*|TagSession.*" />
+                <option name="regex" value="true" />
               </GrepModel>
             </list>
           </option>
