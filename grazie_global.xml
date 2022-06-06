@@ -6,6 +6,11 @@
         <option value="Italian" />
       </set>
     </option>
+    <option name="userDisabledRules">
+      <set>
+        <option value="LanguageTool.IT.ST_03_001" />
+      </set>
+    </option>
     <option name="detectionContext">
       <State>
         <option name="disabled">
