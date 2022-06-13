@@ -11,6 +11,7 @@
         <configuration>
           <option name="HEX_FORMATTING_ENABLED" value="true" />
           <option name="SHOW_FRAME_FUNCTION_PARAMETERS" value="false" />
+          <option name="SHOW_FRAME_MODULE_NAME" value="true" />
           <option name="SHOW_TYPE_TEMPLATE_ARGUMENTS" value="false" />
           <option name="SHOW_TYPES" value="false" />
           <option name="STRIP_CXX_AUXILIARY_NAMESPACES" value="false" />
