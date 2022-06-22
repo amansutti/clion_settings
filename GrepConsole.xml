@@ -246,7 +246,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="ALE_TELEMETRY" />
+                <option name="expression" value="*" />
               </GrepModel>
             </list>
           </option>
@@ -265,7 +265,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="*" />
+                <option name="expression" value="ALE_TELEMETRY" />
               </GrepModel>
             </list>
           </option>
