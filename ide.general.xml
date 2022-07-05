@@ -12,6 +12,7 @@
       <map>
         <entry key="ClangdMemory" value="true" />
         <entry key="CwmWireStatsWidgetFactory" value="false" />
+        <entry key="FlowJSInfo" value="false" />
         <entry key="ReadOnlyAttribute" value="false" />
         <entry key="TypeScriptInfo" value="false" />
         <entry key="com.github.copilot" value="false" />
