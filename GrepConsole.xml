@@ -3,39 +3,6 @@
     <option name="grepHistory">
       <list>
         <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
-                <option name="expression" value="p" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
-                <option name="expression" value="warning|error" />
-                <option name="regex" value="true" />
-              </GrepModel>
-              <GrepModel>
-                <option name="expression" value="" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="customTitle" value="warning|error" />
-          <option name="models">
-            <list>
-              <GrepModel>
-                <option name="expression" value="warning|error" />
-                <option name="regex" value="true" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
           <option name="customTitle" value="warning|error" />
           <option name="models">
             <list>
@@ -253,15 +220,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="ghost" />
               </GrepModel>
             </list>
@@ -284,6 +242,45 @@
             <list>
               <GrepModel>
                 <option name="expression" value="redefined" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="SAVE_EVENT" />
+              </GrepModel>
+              <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="Gravita_reset" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="SAVE_EVENT" />
               </GrepModel>
             </list>
           </option>
@@ -479,6 +476,6 @@
         </Profile>
       </list>
     </option>
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
 </application>
